@@ -1,0 +1,5 @@
+# Ignore a directory
+/large_data/
+
+# Ignore specific files
+yolov8x.pt
