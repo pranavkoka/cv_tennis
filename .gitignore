@@ -1,5 +1,9 @@
 # Ignore a directory
 /large_data/
+/training/
+/output_videos/
 
 # Ignore specific files
 yolov8x.pt
+yolov5_best.pt
+keypoints_model.pth
